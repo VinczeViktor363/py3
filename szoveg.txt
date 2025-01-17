@@ -1,7 +1,0 @@
-englert ervin
-csacska macska
-Ez egy teszt szöveg.
-A fájl tartalmazza a "lorem" szót is.
-Az is lehet benne, hogy néhány mondat van benne.
-Ez csak egy másik mondat.
-End of file.
